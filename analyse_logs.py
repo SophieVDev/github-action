@@ -135,3 +135,4 @@ for ligne in patterns_suspects:
     logging.warning(
         f"Pattern suspect détecté : {ligne}"
     )
+# test hook
